@@ -1,7 +1,7 @@
 class CLI
   def start
     puts "Welcome to the Pokemon CLI!"
-    API.poke
+    API.pokemon
   end
 
 end
