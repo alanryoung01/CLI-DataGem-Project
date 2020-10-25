@@ -13,7 +13,7 @@ class API
         pokemon.name = poke_hash["name"]
         pokemon.url = poke_hash["url"]
     end
-    binding.pry
+
   end
 
 end
