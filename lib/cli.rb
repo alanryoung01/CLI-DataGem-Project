@@ -15,6 +15,14 @@ def menu
     puts "As you wish."
     pokemon_list
     pokemon_choice
+
+    sleep(3)
+    puts "\n"
+
+    menu
+  else
+    puts "\n"
+    puts "Very well, goodbye."
   end
 end
 
