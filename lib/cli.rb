@@ -6,6 +6,7 @@ class CLI
   end
 
 def menu
+
   puts "Would you like a list of pokemon?"
   puts "Type yes or y to proceed otherwise, type exit to leave."
 
