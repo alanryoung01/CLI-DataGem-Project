@@ -6,7 +6,7 @@ To install this CLI simply run the following:
 
 git clone git@github.com:alanryoung01/Pokemon-CLI.git
 
-### Usage
+## Usage
 To use this CLI simply make use of the following commands.
 
 1. cd Pokemon-CLI
@@ -15,5 +15,8 @@ To use this CLI simply make use of the following commands.
 4. Enter a number 1-20 corresponding to the pokemon you want to learn about.
 5. To continue checking pokemon type y or yes, otherwise to cease the loop type exit.
 
-#### License
+## Contributors
+Pulls requests are welcome. Changes are welcome.
+
+### License
 https://github.com/alanryoung01/Pokemon-CLI/blob/main/LICENSE
